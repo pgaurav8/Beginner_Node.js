@@ -7,5 +7,8 @@ what we need to know about “advanced” JavaScript along the way.
 
 #### To run the code :
 
+##### For part 1:
 Write in terminal : node app.js
 
+##### For part 2:
+Write in terminal : node index.js
