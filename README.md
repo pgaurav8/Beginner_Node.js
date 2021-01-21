@@ -12,3 +12,6 @@ Write in terminal : node app.js
 
 ##### For part 2:
 Write in terminal : node index.js
+
+##### For part 3:
+Write in terminal : node index.js
