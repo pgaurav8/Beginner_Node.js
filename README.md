@@ -15,3 +15,9 @@ Write in terminal : node index.js
 
 ##### For part 3:
 Write in terminal : node index.js
+
+##### For part 4:
+Write in terminal : node index.js , node formidable_ex_server1.js
+
+##### For part 5:
+Write in terminal : node index.js
